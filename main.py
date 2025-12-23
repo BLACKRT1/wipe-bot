@@ -9,8 +9,8 @@ intents = discord.Intents.default()
 bot = commands.Bot(command_prefix="!", intents=intents)
 
 LINKS = [
-    {"label": "GitHub", "emoji": "🐙", "url": "https://github.com"},
-    {"label": "Discord", "emoji": "💬", "url": "https://discord.gg/example"},
+    {"label": "VK", "emoji": "🐙", "url": "https://vk.com/frendprime?w=club234658301"},
+    {"label": "DONATE", "emoji": "💰", "url": "https://frendprime.gamestores.app/"},
 ]
 
 @bot.event
